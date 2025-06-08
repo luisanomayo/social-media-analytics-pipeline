@@ -2,6 +2,8 @@
 
 This project demonstrates a data pipeline for social media analytics using Python, PostgreSQL, and Google Sheets. It retrieves tweets from a public Twitter account using the TwitterAPI.io endpoint, processes and stores them in a local PostgreSQL database, and outputs cleaned, analysis-ready data to a Google Sheet for dashboarding in Looker Studio.
 
+![Dashboard Preview](./media/dashboard.png)
+
 ---
 
 ## 🔧 Project Structure
